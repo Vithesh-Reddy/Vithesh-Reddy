@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 ## My Github Stats 📊
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Vithesh-Reddy.repoName) 
+
+
+
 ![My github status](https://github-readme-stats.vercel.app/api?username=Vithesh-Reddy&show_icons=true&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vithesh-Reddy&langs_count=12&layout=compact)
 
